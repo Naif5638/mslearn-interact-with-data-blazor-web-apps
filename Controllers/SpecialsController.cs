@@ -1,6 +1,7 @@
 namespace BlazingPizza.Controllers;
 
 using BlazingPizza.Data.Context;
+using BlazingPizza.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

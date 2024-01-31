@@ -1,5 +1,7 @@
 namespace BlazingPizza.Data.Context;
 
+using BlazingPizza.Model;
+
 public static class SeedData
 {
     public static void Initialize(PizzaStoreContext context)
